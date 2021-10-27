@@ -7,4 +7,4 @@ Developed a Tableau workbook based on data extracted from the Sample - Superstor
 
 
 ## Sales By State
-!{Sales By State](https://github.com/chinomnsomaduka/Geographic-Map---Sales-By-Region/blob/main/Sales%20By%20State.PNG)
+![Sales By State](https://github.com/chinomnsomaduka/Geographic-Map---Sales-By-Region/blob/main/Sales%20By%20State.PNG)
